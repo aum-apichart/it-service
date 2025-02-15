@@ -1,7 +1,7 @@
 <?php
-$servername = "localhost";
+$servername = "caboose.proxy.rlwy.net";
 $username = "root";
-$password = "";
+$password = "HNnCgEwKuFZFVDqtbtRyuxNIAtPlTnUD";
 $dbname = "itservice";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
