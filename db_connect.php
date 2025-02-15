@@ -1,5 +1,5 @@
 <?php
-$servername = "caboose.proxy.rlwy.net";
+$servername = "it-service-production.up.railway.app";
 $username = "root";
 $password = "HNnCgEwKuFZFVDqtbtRyuxNIAtPlTnUD";
 $dbname = "itservice";
